@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+<head>
+	<meta name="dtb:uid" content="50373063-001e-491e-b3e6-ba23f4897046"/>
+	<meta name="dtb:depth" content="1"/>
+	<meta name="dtb:totalPageCount" content="0"/>
+	<meta name="dtb:maxPageNumber" content="0"/>
+</head>
+<docTitle><text>Prayer</text></docTitle>
+<navMap>
+	<navPoint id="cover" class="chapter" playOrder="1">
+		<navLabel><text>Cover</text></navLabel>
+		<content src="cover.html"/>
+	</navPoint>
+	<navPoint id="titlepage" class="chapter" playOrder="2">
+		<navLabel><text>Title Page</text></navLabel>
+		<content src="titlepage.html"/>
+	</navPoint>
+	<navPoint id="toc" class="chapter" playOrder="3">
+		<navLabel><text>Table of Contents</text></navLabel>
+		<content src="toc.html"/>
+	</navPoint>
+	<navPoint id="aboutbook" class="chapter" playOrder="4">
+		<navLabel><text>Information about this Book</text></navLabel>
+		<content src="aboutbook.html"/>
+	</navPoint>
+	<navPoint id="content00" class="chapter" playOrder="5">
+		<navLabel><text>Preface</text></navLabel>
+		<content src="content00.html"/>
+	</navPoint>
+	<navPoint id="content01" class="chapter" playOrder="6">
+		<navLabel><text>Chapter 1—God Invites Us To Pray</text></navLabel>
+		<content src="content01.html"/>
+	</navPoint>
+	<navPoint id="content02" class="chapter" playOrder="7">
+		<navLabel><text>Chapter 2—Our Need Of Prayer</text></navLabel>
+		<content src="content02.html"/>
+	</navPoint>
+	<navPoint id="content03" class="chapter" playOrder="8">
+		<navLabel><text>Chapter 3—God Hears Prayer</text></navLabel>
+		<content src="content03.html"/>
+	</navPoint>
+	<navPoint id="content04" class="chapter" playOrder="9">
+		<navLabel><text>Chapter 4—Prayer And Soul Winning</text></navLabel>
+		<content src="content04.html"/>
+	</navPoint>
+	<navPoint id="content05" class="chapter" playOrder="10">
+		<navLabel><text>Chapter 5—God’s Promises Concerning Prayer</text></navLabel>
+		<content src="content05.html"/>
+	</navPoint>
+	<navPoint id="content06" class="chapter" playOrder="11">
+		<navLabel><text>Chapter 6—The Prayer Of Faith</text></navLabel>
+		<content src="content06.html"/>
+	</navPoint>
+	<navPoint id="content07" class="chapter" playOrder="12">
+		<navLabel><text>Chapter 7—Prayer And Obedience</text></navLabel>
+		<content src="content07.html"/>
+	</navPoint>
+	<navPoint id="content08" class="chapter" playOrder="13">
+		<navLabel><text>Chapter 8—Prevailing Prayer</text></navLabel>
+		<content src="content08.html"/>
+	</navPoint>
+	<navPoint id="content09" class="chapter" playOrder="14">
+		<navLabel><text>Chapter 9—Prayer Power</text></navLabel>
+		<content src="content09.html"/>
+	</navPoint>
+	<navPoint id="content10" class="chapter" playOrder="15">
+		<navLabel><text>Chapter 10—Reasons to Pray</text></navLabel>
+		<content src="content10.html"/>
+	</navPoint>
+	<navPoint id="content11" class="chapter" playOrder="16">
+		<navLabel><text>Chapter 11—Answered Prayer</text></navLabel>
+		<content src="content11.html"/>
+	</navPoint>
+	<navPoint id="content12" class="chapter" playOrder="17">
+		<navLabel><text>Chapter 12—Prayer and Revival</text></navLabel>
+		<content src="content12.html"/>
+	</navPoint>
+	<navPoint id="content13" class="chapter" playOrder="18">
+		<navLabel><text>Chapter 13—Men and Women of Prayer</text></navLabel>
+		<content src="content13.html"/>
+	</navPoint>
+	<navPoint id="content14" class="chapter" playOrder="19">
+		<navLabel><text>Chapter 14—Daily Prayer</text></navLabel>
+		<content src="content14.html"/>
+	</navPoint>
+	<navPoint id="content15" class="chapter" playOrder="20">
+		<navLabel><text>Chapter 15—Jesus’ Example in Prayer</text></navLabel>
+		<content src="content15.html"/>
+	</navPoint>
+	<navPoint id="content16" class="chapter" playOrder="21">
+		<navLabel><text>Chapter 16—Private Prayer</text></navLabel>
+		<content src="content16.html"/>
+	</navPoint>
+	<navPoint id="content17" class="chapter" playOrder="22">
+		<navLabel><text>Chapter 17—Prayer in the Home Circle</text></navLabel>
+		<content src="content17.html"/>
+	</navPoint>
+	<navPoint id="content18" class="chapter" playOrder="23">
+		<navLabel><text>Chapter 18—Prayer and Worship</text></navLabel>
+		<content src="content18.html"/>
+	</navPoint>
+	<navPoint id="content19" class="chapter" playOrder="24">
+		<navLabel><text>Chapter 19—Attitudes in Prayer</text></navLabel>
+		<content src="content19.html"/>
+	</navPoint>
+	<navPoint id="content20" class="chapter" playOrder="25">
+		<navLabel><text>Chapter 20—Praying In The Name of Jesus</text></navLabel>
+		<content src="content20.html"/>
+	</navPoint>
+	<navPoint id="content21" class="chapter" playOrder="26">
+		<navLabel><text>Chapter 21—Divine Guidance Through Prayer</text></navLabel>
+		<content src="content21.html"/>
+	</navPoint>
+	<navPoint id="content22" class="chapter" playOrder="27">
+		<navLabel><text>Chapter 22—Prayer for the Sick</text></navLabel>
+		<content src="content22.html"/>
+	</navPoint>
+	<navPoint id="content23" class="chapter" playOrder="28">
+		<navLabel><text>Chapter 23—Prayer for Forgiveness</text></navLabel>
+		<content src="content23.html"/>
+	</navPoint>
+	<navPoint id="content24" class="chapter" playOrder="29">
+		<navLabel><text>Chapter 24—Intercessory Prayer</text></navLabel>
+		<content src="content24.html"/>
+	</navPoint>
+	<navPoint id="content25" class="chapter" playOrder="30">
+		<navLabel><text>Chapter 25—Angels and Prayer</text></navLabel>
+		<content src="content25.html"/>
+	</navPoint>
+	<navPoint id="content26" class="chapter" playOrder="31">
+		<navLabel><text>Chapter 26—Counterfeit Prayers</text></navLabel>
+		<content src="content26.html"/>
+	</navPoint>
+	<navPoint id="content27" class="chapter" playOrder="32">
+		<navLabel><text>Chapter 27—Satan and Prayer</text></navLabel>
+		<content src="content27.html"/>
+	</navPoint>
+	<navPoint id="content28" class="chapter" playOrder="33">
+		<navLabel><text>Chapter 28—Prayer in the Last Days</text></navLabel>
+		<content src="content28.html"/>
+	</navPoint>
+	<navPoint id="content29" class="chapter" playOrder="34">
+		<navLabel><text>Chapter 29—The Privilege of Prayer</text></navLabel>
+		<content src="content29.html"/>
+	</navPoint>
+	<navPoint id="content30" class="chapter" playOrder="35">
+		<navLabel><text>Chapter 30—The Lord’s Prayer</text></navLabel>
+		<content src="content30.html"/>
+	</navPoint>
+	<navPoint id="content31" class="chapter" playOrder="36">
+		<navLabel><text>Chapter 31—Asking to Give</text></navLabel>
+		<content src="content31.html"/>
+	</navPoint>
+	<navPoint id="content32" class="chapter" playOrder="37">
+		<navLabel><text>Chapter 32—Faith and Prayer</text></navLabel>
+		<content src="content32.html"/>
+	</navPoint>
+</navMap>
+</ncx>

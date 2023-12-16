@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid" version="2.0">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Prayer</dc:title>
+<dc:creator opf:role="aut" opf:file-as="White, Ellen Gould">Ellen G. White</dc:creator>
+<dc:publisher>Ellen G. White Estate, Inc.</dc:publisher>
+<dc:date opf:event="release" xsi:type="dcterms:W3CDTF">2011-10-26</dc:date>
+<dc:language xsi:type="dcterms:RFC3066">en</dc:language>
+<dc:rights>Copyright &#169; 2011, Ellen G. White Estate, Inc.</dc:rights>
+<dc:identifier id="uuid" opf:scheme="UUID">50373063-001e-491e-b3e6-ba23f4897046</dc:identifier>
+<meta name="cover" content="cover-image" />
+</metadata>
+<manifest>
+<item id="bookstyle" href="bookstyles.css" media-type="text/css"/>
+<item id="cover-image" href="cover.jpg" media-type="image/jpeg" />
+<item id="cover-css" href="cover.css" media-type="text/css"/>
+<item id="cover" href="cover.html" media-type="application/xhtml+xml"/>
+<item id="titlepage" href="titlepage.html" media-type="application/xhtml+xml"/>
+<item id="toc" href="toc.html" media-type="application/xhtml+xml"/>
+<item id="aboutbook" href="aboutbook.html" media-type="application/xhtml+xml"/>
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+<item id="content00" href="content00.html" media-type="application/xhtml+xml"/>
+<item id="content01" href="content01.html" media-type="application/xhtml+xml"/>
+<item id="content02" href="content02.html" media-type="application/xhtml+xml"/>
+<item id="content03" href="content03.html" media-type="application/xhtml+xml"/>
+<item id="content04" href="content04.html" media-type="application/xhtml+xml"/>
+<item id="content05" href="content05.html" media-type="application/xhtml+xml"/>
+<item id="content06" href="content06.html" media-type="application/xhtml+xml"/>
+<item id="content07" href="content07.html" media-type="application/xhtml+xml"/>
+<item id="content08" href="content08.html" media-type="application/xhtml+xml"/>
+<item id="content09" href="content09.html" media-type="application/xhtml+xml"/>
+<item id="content10" href="content10.html" media-type="application/xhtml+xml"/>
+<item id="content11" href="content11.html" media-type="application/xhtml+xml"/>
+<item id="content12" href="content12.html" media-type="application/xhtml+xml"/>
+<item id="content13" href="content13.html" media-type="application/xhtml+xml"/>
+<item id="content14" href="content14.html" media-type="application/xhtml+xml"/>
+<item id="content15" href="content15.html" media-type="application/xhtml+xml"/>
+<item id="content16" href="content16.html" media-type="application/xhtml+xml"/>
+<item id="content17" href="content17.html" media-type="application/xhtml+xml"/>
+<item id="content18" href="content18.html" media-type="application/xhtml+xml"/>
+<item id="content19" href="content19.html" media-type="application/xhtml+xml"/>
+<item id="content20" href="content20.html" media-type="application/xhtml+xml"/>
+<item id="content21" href="content21.html" media-type="application/xhtml+xml"/>
+<item id="content22" href="content22.html" media-type="application/xhtml+xml"/>
+<item id="content23" href="content23.html" media-type="application/xhtml+xml"/>
+<item id="content24" href="content24.html" media-type="application/xhtml+xml"/>
+<item id="content25" href="content25.html" media-type="application/xhtml+xml"/>
+<item id="content26" href="content26.html" media-type="application/xhtml+xml"/>
+<item id="content27" href="content27.html" media-type="application/xhtml+xml"/>
+<item id="content28" href="content28.html" media-type="application/xhtml+xml"/>
+<item id="content29" href="content29.html" media-type="application/xhtml+xml"/>
+<item id="content30" href="content30.html" media-type="application/xhtml+xml"/>
+<item id="content31" href="content31.html" media-type="application/xhtml+xml"/>
+<item id="content32" href="content32.html" media-type="application/xhtml+xml"/>
+</manifest>
+<spine toc="ncx">
+<itemref idref="cover"/>
+<itemref idref="titlepage"/>
+<itemref idref="toc"/>
+<itemref idref="aboutbook"/>
+<itemref idref="content00"/>
+<itemref idref="content01"/>
+<itemref idref="content02"/>
+<itemref idref="content03"/>
+<itemref idref="content04"/>
+<itemref idref="content05"/>
+<itemref idref="content06"/>
+<itemref idref="content07"/>
+<itemref idref="content08"/>
+<itemref idref="content09"/>
+<itemref idref="content10"/>
+<itemref idref="content11"/>
+<itemref idref="content12"/>
+<itemref idref="content13"/>
+<itemref idref="content14"/>
+<itemref idref="content15"/>
+<itemref idref="content16"/>
+<itemref idref="content17"/>
+<itemref idref="content18"/>
+<itemref idref="content19"/>
+<itemref idref="content20"/>
+<itemref idref="content21"/>
+<itemref idref="content22"/>
+<itemref idref="content23"/>
+<itemref idref="content24"/>
+<itemref idref="content25"/>
+<itemref idref="content26"/>
+<itemref idref="content27"/>
+<itemref idref="content28"/>
+<itemref idref="content29"/>
+<itemref idref="content30"/>
+<itemref idref="content31"/>
+<itemref idref="content32"/>
+</spine></package>
